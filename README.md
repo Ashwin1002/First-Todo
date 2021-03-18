@@ -1,7 +1,5 @@
 # First-Todo
 <br>
-<br>
-<br>
 ***This is a complete Todo App***
 ***This is potrait view of the app***
 <br>
