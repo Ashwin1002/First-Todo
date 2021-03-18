@@ -3,7 +3,6 @@
 <br>
 <br>
 ***This is a complete Todo App***
-<br>
 ***This is potrait view of the app***
 <br>
 <br>
